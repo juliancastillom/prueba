@@ -111,7 +111,7 @@ public class Vbox2
             System.out.println("VM name: " + name);
             if (!inaccessible)
             {
-                System.out.println(" RAM size  : " + ram + "MB"
+                System.out.println(" RAM Size  : " + ram + "MB"
                                    + ", HWVirt: " + hwvirtEnabled
                                    + ", Nested Paging: " + hwvirtNestedPaging
                                    + ", PAE: " + paeEnabled);
